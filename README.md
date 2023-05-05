@@ -20,3 +20,8 @@ Olá👋meu nome é Sandra Brum seja bem vindo (a) ao meu perfil do Github.
 
 
 <a href="https://www.linkedin.com/in/sandratbrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  
+<img align="center" alt="San-HTML" height="25" width="48" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">	
+
+<img align="center" alt="San-CSS" height="25" width="48" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
